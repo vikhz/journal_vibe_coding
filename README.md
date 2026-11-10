@@ -1,3 +1,6 @@
 # journal de bord
-## Je suis Vi Khanh HUA  
-### Je suis en deuxième année ux ui et je note ce que j'apprends en vibe coding
+Je suis Vi Khanh HUA, en 2e année ux ui. 
+Ici, je note ce que j'apprends en vibe coding.
+
+### Qui suis-je ? 
+Étudiant en design, j'aimes les interfaces sombres
