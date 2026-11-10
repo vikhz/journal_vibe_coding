@@ -8,4 +8,8 @@ Ici, je note ce que j'apprends en vibe coding.
 ### Ce que j'apprends
 - **Git** : Le design interface
 - *Git* : La gammaification
-- <u>Git</u> : vibe coder
+- <ins> Git </ins> : vibe coder
+
+### Ma page
+
+[Voir ma page](https://vikhz.github.io/Porfolio/)
