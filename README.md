@@ -11,5 +11,4 @@ Ici, je note ce que j'apprends en vibe coding.
 - <ins> Git </ins> : vibe coder
 
 ### Ma page
-
-[Voir ma page](https://vikhz.github.io/Porfolio/)
+[Mon portfolio moche](https://vikhz.github.io/Porfolio/)
